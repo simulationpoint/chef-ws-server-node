@@ -1,7 +1,7 @@
 ## [Chef workstation, server, and client(node) configration](https://github.com/simulationpoint)
 ![chef](./src/chef/1.png)
 
-####[Step 1:](https://github.com/simulationpoint/cheff-ws-server-node/edit/main/README.md)
+#### [Step 1:](https://github.com/simulationpoint/cheff-ws-server-node/edit/main/README.md)
 
 > Chef workstation (macOS)
 
@@ -42,7 +42,7 @@
    
 * knife ssl fetch
 
-####[Step 2:](https://github.com/simulationpoint/cheff-ws-server-node/edit/main/README.md)
+#### [Step 2:](https://github.com/simulationpoint/cheff-ws-server-node/edit/main/README.md)
 > Chef server(ubuntu 20.04)
 
 * dpkg -i chef-server-core_*.deb
@@ -51,11 +51,9 @@
 * if you got error connecting the server `stop apache`
 
 
-
-
-####[Step 3:](https://github.com/simulationpoint/cheff-ws-server-node/edit/main/README.md)
+#### [Step 3:](https://github.com/simulationpoint/cheff-ws-server-node/edit/main/README.md)
 > Chef client(node)
 
 
 
-####[Wallah! you have successfully configured cheff CM tool!](https://github.com/simulationpoint)
+#### [Wallah! you have successfully configured cheff CM tool!](https://github.com/simulationpoint)
