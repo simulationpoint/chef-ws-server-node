@@ -47,7 +47,7 @@
 
 * dpkg -i chef-server-core_*.deb
 * chef-server-ctl user-create USER_NAME FIRST_NAME LAST_NAME EMAIL 'PASSWORD' --filename 	~/.chef/USER_NAME.pem
-* sudo chef-server-ctl user-create jesh21 Jesh Amera yeshiwas.amera001@umb.edu 'Grand@21' --filename ~/.chef/jesh21.pem
+* sudo chef-server-ctl user-create jesh21 Jesh Amera yeshiwas.amera001@umb.edu 'password' --filename ~/.chef/jesh21.pem
 * if you got error connecting the server `stop apache`
 
 
