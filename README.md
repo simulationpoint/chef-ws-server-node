@@ -1,5 +1,5 @@
 ## [Cheff workstation, server, and client(node) configration]()
-[Step 1:](cm)
+[Step 1:]()
 > Chef workstation
 
 
